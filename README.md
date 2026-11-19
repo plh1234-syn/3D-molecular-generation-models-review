@@ -5,6 +5,16 @@ A curated repository for 3D Molecular Generation Models Reviews.  Comprehensive 
 This is a curated list of papers and models for 3D molecular generation.
 
 
+## Dataset download
+
+[Download the Excel dataset](https://github.com/plh1234-syn/3D-molecular-generation-models-review/raw/refs/heads/main/3D_molecular_generation_models.xlsx)
+
+The workbook contains a Summary worksheet and 11 category-specific worksheets. Each record provides the paper title, publication year, and paper/code links where available. Paper and code URLs are stored as Excel hyperlinks, so download the workbook to follow them.
+
+Categories can overlap, and repeated source entries are retained. A missing code link means that no link was recorded in the catalogue.
+
+The Excel dataset is shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Linked publications and code remain subject to their own licences.
+
 ## Summary
 
 | title                                                                                                                                                     | paper   | code   |   year |
